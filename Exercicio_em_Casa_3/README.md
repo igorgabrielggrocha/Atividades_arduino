@@ -33,5 +33,5 @@ O programa funciona da seguinte maneira:
 
 <img src="https://github.com/igorgabrielggrocha/Atividades_arduino/blob/main/Exercicio_em_Casa_3/WhatsApp%20Image%202024-10-15%20at%2010.21.44.jpeg" alt="Descrição" style="transform: rotate(90deg);" width="50%"/>
 
-<img src="https://github.com/igorgabrielggrocha/Atividades_arduino/blob/main/Exercicio_em_Casa_3/WhatsApp%20Image%202024-10-15%20at%2010.21.44.jpeg" alt="Descrição" style="transform: rotate(90deg);" width="50%"/>
+<img src="https://github.com/igorgabrielggrocha/Atividades_arduino/blob/main/Exercicio_em_Casa_3/WhatsApp%20Image%202024-10-15%20at%2010.21.25.jpeg" alt="Descrição" style="transform: rotate(90deg);" width="50%"/>
 
