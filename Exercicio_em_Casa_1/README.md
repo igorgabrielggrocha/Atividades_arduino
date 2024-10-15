@@ -35,3 +35,4 @@ Além disso, é possível inverter o circuito, utilizando um resistor pull-down 
    - Use a protoboard para montar o circuito e organizar as conexões.
    - Utilize fios de conexão (jumpers) para ligar os componentes ao Arduino.
 
+<img src="https://github.com/igorgabrielggrocha/Atividades_arduino/blob/main/Exercicio_em_Casa_1/WhatsApp%20Image%202024-10-15%20at%2010.09.48.jpeg" alt="Circuito" width="50%">
