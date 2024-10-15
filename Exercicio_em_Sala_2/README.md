@@ -22,3 +22,5 @@ Este projeto demonstra uma montagem básica utilizando um Arduino Uno e dois LED
 2. **Conexões com a Protoboard**:
    - Use a protoboard para facilitar as conexões entre os LEDs, resistores e o Arduino.
    - Utilize os fios de conexão (jumpers) para ligar os pinos do Arduino aos componentes montados na protoboard.
+
+<img src="https://github.com/igorgabrielggrocha/Atividades_arduino/blob/main/Exercicio_em_Sala_2/WhatsApp%20Image%202024-10-14%20at%2021.21.42.jpeg" alt="Descrição" style="transform: rotate(90deg);" width="350"/>
