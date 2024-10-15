@@ -23,3 +23,6 @@ O código faz o LED embutido (geralmente conectado ao pino 13) ou um LED externo
 4. Aguarda-se mais 1 segundo.
 
 Este ciclo se repete indefinidamente enquanto o programa estiver em execução.
+
+<img
+src="https://github.com/igorgabrielggrocha/Atividades_arduino/blob/main/Exercicio_em_Sala_1/Blink/WhatsApp%20Image%202024-10-14%20at%2021.10.16.jpeg" alt="Descrição" style="transform: rotate(90deg);" width="aqui altera o tamanho"/>
