@@ -31,5 +31,7 @@ O programa funciona da seguinte maneira:
    - Use a protoboard para montar o circuito e organizar as conexões.
    - Utilize fios de conexão (jumpers) para ligar os componentes ao Arduino.
 
+<img src="https://github.com/igorgabrielggrocha/Atividades_arduino/blob/main/Exercicio_em_Casa_3/WhatsApp%20Image%202024-10-15%20at%2010.21.44.jpeg" alt="Descrição" style="transform: rotate(90deg);" width="50%"/>
 
+<img src="https://github.com/igorgabrielggrocha/Atividades_arduino/blob/main/Exercicio_em_Casa_3/WhatsApp%20Image%202024-10-15%20at%2010.21.44.jpeg" alt="Descrição" style="transform: rotate(90deg);" width="50%"/>
 
