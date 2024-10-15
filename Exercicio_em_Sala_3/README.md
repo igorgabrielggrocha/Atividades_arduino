@@ -23,3 +23,5 @@ O programa faz com que os LEDs conectados aos pinos 4, 5 e 6 acendam de forma se
 
    - Utilize a protoboard para organizar as conexões dos LEDs, resistores e fios ao Arduino.
    - Os fios de conexão (jumpers) podem ser usados para ligar os pinos do Arduino aos LEDs montados na protoboard.
+
+<img src="https://github.com/igorgabrielggrocha/Atividades_arduino/blob/main/Exercicio_em_Sala_3/WhatsApp%20Image%202024-10-14%20at%2021.27.42.jpeg" alt="Descrição" style="transform: rotate(90deg);" width="350"/>
